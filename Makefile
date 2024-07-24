@@ -1,5 +1,4 @@
 TARGET=add-nbo
-CXXFLAGS=-g
 
 all: $(TARGET)
 
